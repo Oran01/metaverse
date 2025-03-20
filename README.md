@@ -29,7 +29,7 @@ This project was built by following the **JavaScript Mastery** tutorial:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/Oran01/Bank-Modern-Website.git
+   git clone https://github.com/Oran01/metaverse.git
    cd metaverse
 
    ```
