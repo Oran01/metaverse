@@ -31,7 +31,7 @@ It was inspired by the [JavaScript Mastery](https://www.youtube.com/@javascriptm
 
 ## 📸 Demo
 
-![Demo Screenshot](/demo-screenshot.png)
+![Demo Screenshot](public/demo-screenshot.png)
 
 ---
 
