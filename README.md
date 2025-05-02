@@ -15,6 +15,7 @@ A stunning virtual world experience built with Next.js 13, Framer Motion, and Ta
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 </div>
 
@@ -22,7 +23,7 @@ A stunning virtual world experience built with Next.js 13, Framer Motion, and Ta
 
 ## 🧠 Overview
 
-**Metaversus** is a fully responsive and animated virtual world experience website.  
+**Metaverse** is a fully responsive and animated virtual world experience website.  
 It features beautifully crafted sections like About, Explore Worlds, Get Started, Insights, and Feedback, all built with a clean and scalable structure.
 
 It was inspired by the [JavaScript Mastery](https://www.youtube.com/@javascriptmastery), featuring **smooth animations and a stunning, modern UI**.
@@ -32,6 +33,12 @@ It was inspired by the [JavaScript Mastery](https://www.youtube.com/@javascriptm
 ## 📸 Demo
 
 ![Demo Screenshot](public/demo-screenshot.png)
+
+---
+
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Visit_Live_Demo-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://metaverse-two-pearl.vercel.app/)
 
 ---
 
@@ -98,9 +105,10 @@ It was inspired by the [JavaScript Mastery](https://www.youtube.com/@javascriptm
 
 ---
 
-## 📚 Tutorial Reference
+## 📺 Based on JavaScript Mastery
 
-- [Modern Next.js Website with Framer Motion & Tailwind CSS](https://www.youtube.com/watch?v=ugCN_gynFYw) by JavaScript Mastery
+This project was built following the **JavaScript Mastery** tutorial:  
+🔗 [YouTube Video](https://www.youtube.com/watch?v=ugCN_gynFYw)
 
 ---
 
@@ -108,6 +116,4 @@ It was inspired by the [JavaScript Mastery](https://www.youtube.com/@javascriptm
 
 Feel free to fork this repository and submit pull requests to improve the project!
 
----
-
-⭐ If you enjoyed this project, please consider giving it a star ⭐
+⭐ If you enjoyed this project, please consider giving it a star!
