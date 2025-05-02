@@ -16,7 +16,6 @@ import "../styles/globals.css";
  */
 const RootLayout = ({ children }) => (
   <html lang="en">
-    {" "}
     {/* Defines the language for accessibility & SEO */}
     <head>
       {/* Preconnect to the font provider to improve loading speed */}
